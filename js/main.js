@@ -49,6 +49,7 @@ var born = 1983;
 var today = 2016;
 
 // Answers Below:
+var age = today - born;
 
 
 
@@ -58,7 +59,9 @@ var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
-
+var yourName = "Boyzie";
+var instructorName "Tim";
 
 // Final Statement
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+// "Boyzie is taking a class at The Iron Yard, my instructor's name is Tim"
