@@ -3,22 +3,22 @@
 */
 var givenName;
 // Q: What does `givenName` equal right now?
-// A:
+// A: undefined
 
 
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
-// A:
+// A: Tim
 
 
 givenName = givenName;
 // Q: What is `givenName` set to right now?
-// A:
+// A: Tim
 
 
 var greeting = "Hello, how are you? " + givenName;
 // Q: What is `greeting` set to?
-// A:
+// A: Hello, how are you? Tim
 
 
 /*=========================================================
